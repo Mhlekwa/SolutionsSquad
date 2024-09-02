@@ -1,3 +1,3 @@
 
-#SolutionsSquad Project
+#Solutions Squad Project
 
